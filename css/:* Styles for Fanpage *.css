@@ -1,0 +1,98 @@
+ /* Styles for Fanpage */
+
+ @import url('https://fonts.googleapis.com/css?family=Bungee+Hairline|Leckerli+One|Slackey&display=swap');
+
+/* 
+font-family: 'Leckerli One', cursive;
+font-family: 'Slackey', cursive;
+font-family: 'Bungee Hairline', cursive;
+*/
+
+ body {
+ 	border: blue 2px solid;
+ 	background-color:#ff0000;
+ 	width: 100%;
+ 	height: 800px;
+ 	margin: 0;
+ 	padding: 0;
+
+
+ }
+
+  h1 {
+ 	font-family: 'Bungee Hairline', cursive;
+ 	border: blue 2px solid;
+ 	background-color: #272121;
+ 	/*padding-top: 6%; */
+ 	/* padding-bottom: 1%; */
+ 	margin:0;
+ 	color: #ff4d00;
+ 	text-align: center;
+ 	font-size: 5.0em;
+ 	font-style: italic;
+ }
+
+
+
+ div {
+ 	border: blue 2px solid;
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ #underneath_h1 {
+ 	width:100%;
+ 	padding-top:10%;
+ 	padding-bottom:10%;
+
+ 	background-image: url("../images/checkered.jpg");
+ }
+
+ div.floater{
+ 	float: left;
+ 	height: 150px;
+ }
+
+ div.nofloat {
+ 	float: none;
+ }
+
+ div#col1{
+ 	background-color: #443737;
+ 	width: 19%;
+
+ }
+
+ div#col2{
+ 	width: 50%;
+ 	margin: 0;
+ 	padding:0;
+ }
+
+ div#secondPart {
+ 	width:100%;
+ 	height: 150px;
+ }
+
+ p {
+ 	margin: 0;
+ 	padding:0;
+ 	color: white;
+ 	font-size: 2.0em;
+ 	text-align: center;
+ }
+
+ #fluffyBunny{
+ 	width: 29%;
+ }
+
+
+
+ h2 {
+ 	/* background-color: dodgerblue; */
+ 	float:none;
+ 	border: blue 2px solid;
+ 	width: 100%;
+ 	margin:0;
+
+ }
